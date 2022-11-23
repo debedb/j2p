@@ -1,0 +1,3 @@
+# Java-to-Python converter
+
+An initial attempt to create Java-to-Python converter salvaged from [google code](https://code.google.com/archive/p/j2p/). See [blog entry](http://debedb.blogspot.com/2007/03/java-to-python-converter.html) about why this was started. TL;dr: [java2python](https://github.com/natural/java2python) wasn't supporting Java 5 at the time, but judging from activity level of it now, it clearly does. But just adding it to GitHub for the hell of it.
